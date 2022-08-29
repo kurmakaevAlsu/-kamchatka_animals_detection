@@ -1,0 +1,1 @@
+# -kamchatka_animals_detection
